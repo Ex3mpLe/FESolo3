@@ -1,4 +1,4 @@
-# Личный проект «projectTitle» 
+# Личный проект «Sedona» 
 
 * Студент: [Roma Sadykov](https://up.htmlacademy.ru/htmlcss/40/user/2275475).
 * Наставник: `Неизвестно`.
